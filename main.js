@@ -1,0 +1,12 @@
+ScrollReveal().reveal('.clipboard-1');
+ScrollReveal().reveal('.clipboard-2', { delay: 500 });
+ScrollReveal().reveal('.hero-button', { delay: 1100 });
+ScrollReveal().reveal('.intro-section-1', { delay: 1500 });
+ScrollReveal().reveal('.intro-section-2', { delay: 1750 });
+ScrollReveal().reveal('.intro-section-3', { delay: 1900 });
+ScrollReveal().reveal('.features-text', { delay: 2000 });
+ScrollReveal().reveal('.img-features', { delay: 2000 });
+ScrollReveal().reveal('.features-text-1', { delay: 1800 });
+ScrollReveal().reveal('.card-features', { delay: 1700 });
+ScrollReveal().reveal('.collab-company', { delay: 1100 });
+ScrollReveal().reveal('.cta-button', { delay: 1500 });
